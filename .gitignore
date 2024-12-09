@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Node.js
+node_modules/
+
+# Vue build output
+/dist
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
